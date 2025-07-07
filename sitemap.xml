@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://keenangroup.github.io/sitemaps/sitemap-canonical.xml</loc>
+    <lastmod>2025-07-07</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://thekeenangroup.com/sitemap-blog-dpages.xml</loc>
+    <lastmod>2025-07-07</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://thekeenangroup.com/sitemap-agent-dpages.xml</loc>
+    <lastmod>2025-07-07</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://thekeenangroup.com/sitemap-neighborhoods-dpages.xml</loc>
+    <lastmod>2025-07-07</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://thekeenangroup.com/sitemap-properties-dpages.xml</loc>
+    <lastmod>2025-07-07</lastmod>
+  </sitemap>
+</sitemapindex>
