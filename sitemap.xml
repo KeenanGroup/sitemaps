@@ -20,4 +20,8 @@
     <loc>https://thekeenangroup.com/sitemap-properties-dpages.xml</loc>
     <lastmod>2025-07-07</lastmod>
   </sitemap>
+  <sitemap>
+    <loc>https://keenangroup.github.io/sitemaps/sitemap-listings.xml</loc>
+    <lastmod>2025-07-07</lastmod>
+  </sitemap>
 </sitemapindex>
